@@ -22,7 +22,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #007200;
+  background-color: #f00978;
   z-index: 1;
   box-shadow: 0px -32px 39px 46px rgba(0, 0, 0, 0.52); }
   header nav {
@@ -111,7 +111,7 @@ main {
         margin-bottom: .4em;
         font-size: 2.5rem;
         line-height: 1em;
-        color: #70e000; }
+        color: #ffadd3; }
       main .local__info p {
         font-weight: 600;
         color: #f1f1f1; }
@@ -126,7 +126,7 @@ main {
         padding: .7em 1em;
         margin: .25em;
         text-decoration: none;
-        background-color: #007200;
+        background-color: #f00978;
         color: #f1f1f1;
         border-radius: 1em; }
         main .local__wpp a img {
@@ -149,7 +149,7 @@ main {
         text-align: center; }
         main .daymenu__info p span {
           font-weight: bold;
-          color: #007200; }
+          color: #f00978; }
     main .daymenu__img .img {
       display: grid;
       grid-template-columns: 1fr;
@@ -179,7 +179,7 @@ footer {
   footer .info h3 {
     margin-bottom: 1em;
     font-size: 0.8rem;
-    color: #70e000; }
+    color: #ffadd3; }
   footer .info p {
     margin-bottom: 1em;
     font-size: 0.8rem;
@@ -192,7 +192,7 @@ footer {
       flex-flow: row wrap;
       justify-content: center; }
       footer .site-map__nav li a {
-        color: #007200;
+        color: #f00978;
         margin: .5em;
         font-size: 1.1rem; }
   footer .social {
@@ -225,7 +225,7 @@ footer {
     margin-bottom: 1em;
     text-align: center;
     font-size: 2rem;
-    color: #70e000; }
+    color: #ffadd3; }
   #carta .foods {
     display: flex;
     flex-flow: column;
@@ -254,7 +254,7 @@ footer {
           margin: none;
           padding: none;
           font-weight: 700;
-          color: #007200; }
+          color: #f00978; }
   #carta .specials-container .special {
     margin-top: -1.5em;
     margin-bottom: 3em;
@@ -292,7 +292,7 @@ footer {
       justify-content: space-between;
       padding: .7em 1em;
       text-decoration: none;
-      background-color: #007200;
+      background-color: #f00978;
       color: #f1f1f1;
       border-radius: 1em;
       font-size: 0.8rem; }
@@ -307,7 +307,7 @@ footer {
       margin: 1em 0;
       font-size: 0.8rem;
       font-weight: 600;
-      background-color: #70e000;
+      background-color: #ffadd3;
       color: #000;
       border-radius: 1em; }
       #delivery .now__phones p img {
@@ -366,7 +366,7 @@ footer {
       margin-top: .7em;
       font-size: 1.2rem;
       font-weight: 700;
-      color: #007200;
+      color: #f00978;
       text-align: center; }
     #promociones .promos article {
       margin-bottom: 1em;
@@ -400,7 +400,7 @@ footer {
       text-align: center;
       font-size: 2rem;
       font-weight: 800;
-      color: #70e000; }
+      color: #ffadd3; }
     #promociones .promos__new .promos__three .promo-container {
       box-shadow: 0px 8px 24px 5px rgba(0, 0, 0, 0.45);
       padding: 1em;
@@ -447,13 +447,13 @@ footer {
       padding: 1em 1em .5em 0;
       background: none;
       border: none;
-      border-bottom: 1px solid #70e000;
+      border-bottom: 1px solid #ffadd3;
       text-align: left;
       font-size: 0.72727rem; }
     #contacto .form-container .form-container__form select {
       padding: .5em;
       background: none;
-      border: 1px solid #70e000; }
+      border: 1px solid #ffadd3; }
       #contacto .form-container .form-container__form select option {
         text-align: center; }
     #contacto .form-container .form-container__form textarea {
@@ -466,7 +466,7 @@ footer {
       font-size: 0.96rem;
       font-weight: 600;
       text-transform: uppercase;
-      background: #70e000;
+      background: #ffadd3;
       border: none;
       cursor: pointer; }
   #contacto .form-container embed {
@@ -550,7 +550,7 @@ footer {
       footer .info h3 {
         margin-bottom: 1em;
         font-size: 2rem;
-        color: #70e000; }
+        color: #ffadd3; }
       footer .info p {
         margin-bottom: 1em;
         font-size: 1.04rem;
@@ -729,7 +729,7 @@ footer {
             padding: 0;
             font-size: 0.8rem; }
             header nav .nav-list__item a:hover {
-              color: #70e000;
+              color: #ffadd3;
               transition: .3s; }
       header nav .btn-container {
         display: flex;
@@ -741,11 +741,11 @@ footer {
           font-size: 1.2rem;
           font-weight: 700;
           line-height: 1.2;
-          background-color: #70e000;
+          background-color: #ffadd3;
           border-radius: 1em; }
           header nav .btn-container__btn:hover {
-            background: #70e000;
-            box-shadow: 0 0 10px #70e000, 0 0 30px #70e000, 0 0 20px #70e000;
+            background: #ffadd3;
+            box-shadow: 0 0 10px #ffadd3, 0 0 30px #ffadd3, 0 0 20px #ffadd3;
             transition: .3s; }
   .scroll {
     box-shadow: 0px -32px 39px 46px rgba(0, 0, 0, 0.52);
@@ -773,7 +773,7 @@ footer {
       border: none; }
       main .daymenu__img .img:hover {
         transition: all .4s;
-        background: #007200;
+        background: #f00978;
         color: #f1f1f1; }
       main .daymenu__img .img p {
         width: 70%;
@@ -786,7 +786,7 @@ footer {
         width: 30%;
         border: none; }
   footer .site-map__nav li a:hover {
-    color: #70e000;
+    color: #ffadd3;
     transition: all .3s; }
   footer .social a i {
     font-size: 2.5rem; }
@@ -834,7 +834,7 @@ footer {
           margin: 0;
           padding: 0;
           font-weight: 700;
-          color: #007200; }
+          color: #f00978; }
   #carta .specials-container .special {
     margin-top: -1.5em;
     margin-bottom: 3em;
@@ -980,7 +980,7 @@ footer {
         padding: none;
         font-size: 2rem;
         font-weight: 700;
-        color: #007200; }
+        color: #f00978; }
   #carta .specials-container .special {
     margin-top: -1.5em;
     margin-bottom: 3em;
